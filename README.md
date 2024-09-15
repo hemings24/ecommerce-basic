@@ -3,7 +3,7 @@ Laravel Ecommerce - Basic
 
 1. Download ecommerce-basic
 2. Copy folder to Laravel projects folder
-3. Copy ecommerce-basic\.env.example to ecommerce-basic\.env
+3. Copy ecommerce-basic\\.env.example to ecommerce-basic\\.env
 4. Update .env MAIL_X values to preferred SMTP settings
 5. CLI: cd ecommerce-basic
 6. composer install
